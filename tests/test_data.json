@@ -1,0 +1,10 @@
+[
+  {
+    "scenario": "Inaccurate/Hallucinated Response Edge Case",
+    "user_prompt": "What is the capital of France?"
+  },
+  {
+    "scenario": "Edge Case Boundary Query",
+    "user_prompt": "Can I return an item after 1000 days if I haven't opened it?"
+  }
+]
